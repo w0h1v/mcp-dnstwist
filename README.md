@@ -1,4 +1,5 @@
 # DNStwist MCP Server
+[![Trust Score](https://archestra.ai/mcp-catalog/api/badge/quality/BurtTheCoder/mcp-dnstwist)](https://archestra.ai/mcp-catalog/BurtTheCoder__mcp-dnstwist)
 [![smithery badge](https://smithery.ai/badge/@burtthecoder/mcp-dnstwist)](https://smithery.ai/server/@burtthecoder/mcp-dnstwist)
 
 A Model Context Protocol (MCP) server for [dnstwist](https://github.com/elceef/dnstwist), a powerful DNS fuzzing tool that helps detect typosquatting, phishing, and corporate espionage. This server provides tools for analyzing domain permutations and identifying potentially malicious domains. It is designed to integrate seamlessly with MCP-compatible applications like [Claude Desktop](https://claude.ai).
