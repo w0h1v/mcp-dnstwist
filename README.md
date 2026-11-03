@@ -8,7 +8,6 @@
   <a href="LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-blue"></a>
   <img alt="Node 20.3 or newer" src="https://img.shields.io/badge/node-%E2%89%A520.3-339933">
   <a href="https://registry.modelcontextprotocol.io"><img alt="MCP Registry" src="https://img.shields.io/badge/MCP-Registry-7c3aed"></a>
-  <a href="https://smithery.ai/server/@burtthecoder/mcp-dnstwist"><img alt="Smithery" src="https://img.shields.io/badge/Smithery-listed-ff5601"></a>
 </p>
 
 <p align="center">
@@ -61,7 +60,7 @@ codex mcp add dnstwist -- npx -y @burtthecoder/mcp-dnstwist
 gemini mcp add dnstwist npx -y @burtthecoder/mcp-dnstwist
 ```
 
-For Claude Desktop, VS Code, Docker, Smithery and running from source, see [Connect a client](docs/clients.md).
+For Claude Desktop, VS Code, Docker and running from source, see [Connect a client](docs/clients.md).
 
 Then ask your agent: *"Which lookalike domains of example.com are registered, and could any of them intercept email?"* More prompts are in [example workflows](docs/examples.md).
 

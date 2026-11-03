@@ -14,7 +14,6 @@ on:
       - '.github/**'
       - 'Dockerfile'
       - '.dockerignore'
-      - 'smithery.yaml'
 
 permissions:
   contents: read

@@ -84,12 +84,6 @@ docker build -t mcp-dnstwist https://github.com/w0h1v/mcp-dnstwist.git
 }
 ```
 
-## Smithery
-
-```sh
-npx -y @smithery/cli install @burtthecoder/mcp-dnstwist --client claude
-```
-
 ## From source
 
 ```sh
